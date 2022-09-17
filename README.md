@@ -1,5 +1,8 @@
-# Calculator
-Calculator developed in html, javascript and css with all the functionality of the 4 math operations, button to delete only one number and button to delete the entire operation.
+# Calculadora
+projeto de calculadora desenvolvido em html 5, Javascript e Css, com todas as funcionalidades das quatro operações matemáticas, botão para deletar apenas um númer e botão para deletar toda a operação.
 
-functionalities:
-addition, multiplication and division operations.
+## funcionalidades
+1. Adição
+2. Subtração
+3. Multiplicação
+4. Divisão
